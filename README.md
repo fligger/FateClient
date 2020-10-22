@@ -8,9 +8,9 @@ It is in a very early state of developement.
 
 Latest Client dll [Download](https://github.com/fligger/FateClient/releases/download/1.16.40.2-1/Fate.Client.dll)
 
-Fate Injector [Download](https://github.com/fligger/FateInjector/)
-
 Texture Pack (required) [Download](https://github.com/fligger/FateClient/releases/download/1.16.40.2-1/Fate.Client.injector.required.mcpack)
+
+Fate Injector [Download](https://github.com/fligger/FateInjector/)
 
 [Youtube Devlogs](https://www.youtube.com/playlist?list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki)
 
