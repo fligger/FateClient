@@ -6,9 +6,7 @@ It is in a very early state of developement.
 
 ### Make sure the required texture pack is top most to avoid any problems!
 
-Latest Client dll [Download](https://github.com/fligger/FateClient/releases/download/1.16.40.2-1/Fate.Client.dll)
-
-Texture Pack (required) [Download](https://github.com/fligger/FateClient/releases/download/1.16.40.2-1/Fate.Client.injector.required.mcpack)
+Go to Latest Client [Download](https://github.com/fligger/FateClient/releases/) (click on Assets to see files)
 
 Fate Injector [Download](https://github.com/fligger/FateInjector/)
 
@@ -21,8 +19,10 @@ Official Discord Server: https://discord.gg/8UxKBmA
 
 ## Features:
 - Zoom Mod
-- Kreystrokes
+- Keystrokes
 - Coordinates
 - CPS Counter
+- Unlocked brightness Slider
+- Toggle Sprint
 
 More to come :)
