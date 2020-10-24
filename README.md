@@ -6,7 +6,7 @@ It is in a very early state of developement.
 
 ### Make sure the required texture pack is top most to avoid any problems!
 
-Go to Latest Client [Download](https://github.com/fligger/FateClient/releases/) (click on Assets to see files)
+Go to Latest Client [Download](https://github.com/fligger/FateClient/releases/latest/) (click on Assets to see files)
 
 Fate Injector [Download](https://github.com/fligger/FateInjector/)
 
