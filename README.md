@@ -27,6 +27,8 @@ More to come :)
 4. Open the injector and press the select button and select the .dll file
 5. Hit inject
 
+### The Client is only present for one game session. If you restart the game you have to inject the dll again.
+
 
 ## Troubleshooting:
 Dll is injected but nothing happend:
