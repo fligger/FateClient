@@ -1,21 +1,10 @@
 # Fate Client
 Fate Client Is the first ever Internal Legit Client for Minecraft Windows 10 Edition!
 
-It is in a very early state of developement.
-
-
-### Make sure the required texture pack is top most to avoid any problems!
-
-Go to Latest Client [Download](https://github.com/fligger/FateClient/releases/latest/) (click on Assets to see files)
-
-Fate Injector [Download](https://github.com/fligger/FateInjector/)
-
-[Youtube Devlogs](https://www.youtube.com/playlist?list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki)
-
-
-Official Discord Server: https://discord.gg/8UxKBmA
-
-
+### Disclamer:
+- This is a hobby project you get what you get.
+- I am not responsible for any bans.
+- This only works for Minecraft Windows 10 Editon **:o**
 
 ## Features:
 - Zoom Mod
@@ -26,3 +15,35 @@ Official Discord Server: https://discord.gg/8UxKBmA
 - Toggle Sprint
 
 More to come :)
+
+## Setup:
+
+1. Download Fate Injector [Download](https://github.com/fligger/FateInjector/)
+2. Download the Fate Client dll and Texture Pack here [releases](https://github.com/fligger/FateClient/releases/)
+   - Make sure your game version and your downloaded Fate Client version are compatible!
+   - If not compatible you can consider downgrading using [McLauncher](https://github.com/MCMrARM/mc-w10-version-launcher)
+3. Install the texturen Pack and select it
+   - Make sure the Texture Pack is on top.
+4. Open the injector and press the select button and select the .dll file
+5. Hit inject
+
+
+## Troubleshooting:
+Dll is injected but nothing happend:
+1. Go to https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+2. Scroll down and download the x64: vc_redist.x64.exe
+3. Run the exe and install it
+4. Restart PC after install
+5. Fate should now work
+
+Find Better Keystrokes Patches on the discord server:
+Official Discord Server: https://discord.gg/8UxKBmA
+  
+Check out my [Youtube Devlogs](https://www.youtube.com/playlist?list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki)!
+
+
+
+
+
+
+
