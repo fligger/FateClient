@@ -1,7 +1,7 @@
 # Fate Client
 Fate Client Is the first ever Internal Legit Client for Minecraft Windows 10 Edition!
 
-### Disclamer:
+## Disclamer:
 - This is a hobby project you get what you get.
 - I am not responsible for any bans.
 - This only works for Minecraft Windows 10 Editon **:o**
@@ -19,11 +19,11 @@ More to come :)
 ## Setup:
 
 1. Download Fate Injector [Download](https://github.com/fligger/FateInjector/)
-2. Download the Fate Client dll and Texture Pack here [releases](https://github.com/fligger/FateClient/releases/)
-   - Make sure your game version and your downloaded Fate Client version are compatible!
-   - If not compatible you can consider downgrading using [McLauncher](https://github.com/MCMrARM/mc-w10-version-launcher)
-3. Install the texturen Pack and select it
-   - Make sure the Texture Pack is on top.
+2. Download Fate Client dll and Texture Pack here [releases](https://github.com/fligger/FateClient/releases/)
+   - Make sure your game version and your downloaded Fate Client version matches!
+   - If not compatible you can downgrade using [McLauncher](https://github.com/MCMrARM/mc-w10-version-launcher)
+3. Install the Texture Pack and select it
+   - Make sure the Texture Pack is on topmost!
 4. Open the injector and press the select button and select the .dll file
 5. Hit inject
 
