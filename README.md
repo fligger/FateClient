@@ -29,6 +29,13 @@ More to come :)
 
 ### The Client is only present for one game session. If you restart the game you have to inject the dll again.
 
+## Block Features: 
+0. Make sure you have Injected Fate Client at least once!
+1. Open this file Path `%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe`
+2. Navigate into AC -> Fate Client and open the blockConfig.txt
+3. Change true statement to false to prevent features from loading
+4. Inject the dll Into a fresh game session
+   - The state of the blocked module should now say "DISABLED" 
 
 ## Troubleshooting:
 Dll is injected but nothing happend:
