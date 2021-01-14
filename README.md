@@ -29,7 +29,7 @@ More to come :)
 
 ### The Client is only present for one game session. If you restart the game you have to inject the dll again.
 
-## Block Features: 
+## How to block features: 
 0. Make sure you have Injected Fate Client at least once!
 1. Open this file Path `%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe`
 2. Navigate into AC -> Fate Client and open the blockConfig.txt
