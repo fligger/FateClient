@@ -13,6 +13,8 @@ Fate Client Is the first ever Internal Legit Client for Minecraft Windows 10 Edi
 - CPS Counter
 - Unlocked brightness Slider
 - Toggle Sprint
+- 360 Perspective
+- Direction HUD
 
 More to come :)
 
