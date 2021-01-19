@@ -18,6 +18,7 @@ Fate Client Is the first ever Internal Legit Client for Minecraft Windows 10 Edi
 
 More to come :)
 
+Check out my [Youtube Devlogs](https://www.youtube.com/playlist?list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki)!
 ## Setup:
 
 1. Download Fate Injector [Download](https://github.com/fligger/FateInjector/)
@@ -49,8 +50,6 @@ Dll is injected but nothing happend:
 
 Find Better Keystrokes Patches on the discord server:
 Official Discord Server: https://discord.gg/8UxKBmA
-  
-Check out my [Youtube Devlogs](https://www.youtube.com/playlist?list=PLVRYtYhvPXj5J6IwIFAAFO8CrpgmsLFki)!
 
 
 
